@@ -2,3 +2,5 @@
 example/
 cnn/
 dailymail/
+best_model.pt
+docs/
