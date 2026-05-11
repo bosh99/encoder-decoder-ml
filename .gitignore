@@ -4,3 +4,19 @@ cnn/
 dailymail/
 best_model.pt
 docs/
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face cache
+~/.cache/huggingface/
+
+# OS
+.DS_Store
+Thumbs.db
